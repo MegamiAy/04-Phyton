@@ -1,3 +1,3 @@
-# 02-JavaScript
+# 04-Python
 
-* Repositório para guardar o conteúdo do curso de JavaScript do curso em video
+* Repositório para guardar o conteúdo do curso de Python do curso em video
