@@ -25,10 +25,19 @@ OPERADORES
 em python
 
 	= receber
-		A = B	- A recebe B
+		A = B	. A recebe B
 	== igualdade
-		A == B	- A é igual a B
+		A == B	. A é igual a B
 	
+aritiméticos
+	
+	+ adição	. A + B		5 + 2 == 7
+	- subtração	. A - B		5 - 2 == 3
+	* multiplicação	. A * B		5 * 2 == 10
+	/ divisão	. A / B		5 / 2 == 2.5
+	// divisão int	. A // B	5 // 2 == 2
+	% rest divisão	. A % B		5 % 2 == 1
+	** potência	. A ** B	5 ** 2 == 25
 
 ----
 
