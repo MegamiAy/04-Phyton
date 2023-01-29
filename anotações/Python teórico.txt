@@ -15,7 +15,7 @@ Zen do python
 	- agora é melhor que nunca
 	- ...
 
-Onde se aplcia python?
+Onde se aplica python?
 	- inteligência artificial
 	- biotecnologia
 	- computação 3d
