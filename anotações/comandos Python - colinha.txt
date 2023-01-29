@@ -65,7 +65,11 @@ PRINT
 		    print('A soma {} + {} é {}'.format(num1, num2, soma))
 			= A soma 5 + 5 é 10
 
-
+	.isnumeric() - é númerico?
+	.isalpha() - é letra?
+	.isalnum() - é alfa-númerico?
+		ex: print(var.isnumeric())
+			= True or False
 
 INPUT
 	input - função de interatividade
