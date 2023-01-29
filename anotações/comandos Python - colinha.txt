@@ -44,6 +44,8 @@ COMANDOS
 
 todos os comandos são funções = ()
 
+# - comentário
+
 PRINT
 	print - função de escrever na tela
 		ex: print('Olá Mundo')
