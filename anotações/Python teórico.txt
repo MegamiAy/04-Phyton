@@ -1,0 +1,22 @@
+Python é?
+	- uma linguagem de propósito geral, pode ser usada para básicamente tudo
+	- fácil e intuitivo
+	- multipatlaforma
+	- livre, código aberto
+	- organizada
+	- muitas bibliotecas
+
+Zen do python
+	- bonito é melhor que feio
+	- simples é melhor que complexo
+	- complexo é melhor que complicado
+	- legibilidade conta
+	- erros nunca devem passar silenciosamente
+	- agora é melhor que nunca
+	- ...
+
+Onde se aplcia python?
+	- inteligência artificial
+	- biotecnologia
+	- computação 3d
+	
