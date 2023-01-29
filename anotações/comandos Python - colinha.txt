@@ -4,12 +4,20 @@ no python toda variável é um objeto
 var = dado - var recebe o dado
 	ex: nome = 'joão'
 	    idade = 34
+	    nome = input ('')
+
+----
 
 TIPOS DE DADOS
 em pyton
-	strings, sequência de caracteres = 'Olá'
+	strings = 'Olá'
+		sequência de caracteres: 123, abc...
 	números = 0
+		inteiro(int): 1... 6... 45...
+		real(): 1.4... 23.6...
 	boleans = Verdadeiro ou Falso
+
+----
 
 COMANDOS
 
@@ -31,6 +39,7 @@ PRINT
 INPUT
 	input - função de interatividade
 		ex: input('Qual seu nome?')
-			linha esperando resposta
+			linha esperando dados			            var = input('Qual seu nome?')
+			linha esperando dados
 
 		
