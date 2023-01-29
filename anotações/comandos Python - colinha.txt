@@ -1,0 +1,26 @@
+Variáveis 
+no python toda variável é um objeto
+
+
+Tipos de dados
+em pyton
+	strings, sequência de caracteres = 'Olá'
+	números = 0
+	boleans = Verdadeiro ou Falso
+
+Comandos
+
+todos os comandos são funções = ()
+
+print - função de escrever na tela
+	ex: print('Olá Mundo')
+		= Olá Mundo
+	    print('Olá', 5)
+		= Olá 5
+	    print(2+5)
+		= 7
+	    print('2'+'5')
+		= 25
+
+
+		
