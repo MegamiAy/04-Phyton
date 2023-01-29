@@ -1,26 +1,36 @@
-Variáveis 
+VARIÁVEIS
 no python toda variável é um objeto
 
+var = dado - var recebe o dado
+	ex: nome = 'joão'
+	    idade = 34
 
-Tipos de dados
+TIPOS DE DADOS
 em pyton
 	strings, sequência de caracteres = 'Olá'
 	números = 0
 	boleans = Verdadeiro ou Falso
 
-Comandos
+COMANDOS
 
 todos os comandos são funções = ()
 
-print - função de escrever na tela
-	ex: print('Olá Mundo')
-		= Olá Mundo
-	    print('Olá', 5)
-		= Olá 5
-	    print(2+5)
-		= 7
-	    print('2'+'5')
-		= 25
+PRINT
+	print - função de escrever na tela
+		ex: print('Olá Mundo')
+			= Olá Mundo
+		    print('Olá', 5)
+			= Olá 5
+		    print(2+5)
+			= 7
+		    print('2'+'5')
+			= 25
+		    print(var, var1)
+			= var var2
 
+INPUT
+	input - função de interatividade
+		ex: input('Qual seu nome?')
+			linha esperando resposta
 
 		
