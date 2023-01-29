@@ -8,14 +8,35 @@ var = dado - var recebe o dado
 
 ----
 
-TIPOS DE DADOS
-em pyton
-	strings = 'Olá'
+TIPOS PRIMITIVOS
+dados em pyton
+	strings(str) = 'Olá'
 		sequência de caracteres: 123, abc...
 	números = 0
 		inteiro(int): 1... 6... 45...
-		real(): 1.4... 23.6...
-	boleans = Verdadeiro ou Falso
+		real(float): 1.4... 23.6...
+	boleans(bool) = 
+		True: verdadeiro
+		False: falso
+
+----
+
+OPERADORES
+em python
+
+	= receber
+		A = B	- A recebe B
+	== igualdade
+		A == B	- A é igual a B
+	
+
+----
+
+CONCATENAÇÃO
+
+	,
+	.
+	+
 
 ----
 
@@ -39,6 +60,9 @@ PRINT
 	.format() - formatar, para que {} seja substituido por algum valor
 		ex: print('Olá {}!'.format(nome))
 			= Olá José!
+		    print('A soma {} + {} é {}'.format(num1, num2, soma))
+			= A soma 5 + 5 é 10
+
 
 
 INPUT
