@@ -36,6 +36,11 @@ PRINT
 		    print(var, var1)
 			= var var2
 
+	.format() - formatar, para que {} seja substituido por algum valor
+		ex: print('Olá {}!'.format(nome))
+			= Olá José!
+
+
 INPUT
 	input - função de interatividade
 		ex: input('Qual seu nome?')
