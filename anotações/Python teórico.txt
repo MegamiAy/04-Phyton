@@ -76,7 +76,7 @@ com biblioteca
 	floor - arredondar resultado pra baixo
 		9.5 -> 8
 	trunc - truncar o número com virgula
-		10.5 -> 0.5
+		10.5 -> 10
 	pow - potência
 		10^4
 	sqrt - Raiz quadrada
