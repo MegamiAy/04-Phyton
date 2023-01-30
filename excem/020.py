@@ -1,4 +1,5 @@
 import random
-qt = int(input('Quantidade de alunos a apresentar: '))
-alu = str(input('Digite o nome: '))
-print('')
+n1 = input('Digite o nome: ')
+n2 = input('Digite o nome: ')
+n3 = input('Digite o nome: ')
+n4 = input('Digite o nome: ')

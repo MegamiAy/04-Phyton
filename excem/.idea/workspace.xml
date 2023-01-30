@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="295e60b7-c5eb-4c13-b1e8-2a145e83a98c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/018.py" beforeDir="false" afterPath="$PROJECT_DIR$/018.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/019.py" beforeDir="false" afterPath="$PROJECT_DIR$/019.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +41,7 @@
     &quot;last_opened_file_path&quot;: &quot;D:/07 - Estudos/My_projects/04-Phyton/excem/014.py&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.018">
+  <component name="RunManager" selected="Python.019">
     <configuration name="016" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="excem" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -169,10 +170,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.019" />
         <item itemvalue="Python.018" />
         <item itemvalue="Python.017" />
         <item itemvalue="Python.020" />
-        <item itemvalue="Python.019" />
         <item itemvalue="Python.016" />
       </list>
     </recent_temporary>
