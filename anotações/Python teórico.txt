@@ -80,7 +80,10 @@ com biblioteca
 	pow - potência
 		10^4
 	sqrt - Raiz quadrada
-	factorial - 
+		81 = 9
+	factorial - calculo fatorial
+		4! = 4 * 3 * 2 * 1
+	...
 
 ====
 
