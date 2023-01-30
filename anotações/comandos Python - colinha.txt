@@ -43,4 +43,7 @@ INPUT
 			linha esperando dados			            var = input('Qual seu nome?')
 			linha esperando dados
 
-		
+IMPORT
+	import - importar módulos
+		ex: import math - importar tudo de um módulo
+		    from math import ceil - importar algo especifico dentro de um módulo

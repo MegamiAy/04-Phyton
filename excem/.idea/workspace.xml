@@ -5,19 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="295e60b7-c5eb-4c13-b1e8-2a145e83a98c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/006.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/007.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/008.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/009.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/010.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/011.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/012.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/013.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/014.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/015.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../anotações/Python teórico.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../anotações/Python teórico.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/016.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/005.py" beforeDir="false" afterPath="$PROJECT_DIR$/005.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,13 +34,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/07 - Estudos/My_projects/04-Phyton/excem/014.py"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/07 - Estudos/My_projects/04-Phyton/excem/014.py&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Python.014">
     <configuration name="006" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="excem" />

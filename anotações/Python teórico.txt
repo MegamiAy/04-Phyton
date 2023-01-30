@@ -53,7 +53,7 @@ em python
 
 ====
 
-aritiméticos
+aritiméticos - sem biblioteca
 	
 	+ adição	. A + B		5 + 2 == 7
 	- subtração	. A - B		5 - 2 == 3
@@ -70,6 +70,18 @@ aritiméticos
 		3º * / // %
 		4º + -
 
+com biblioteca
+	ceil - arredondar resultado pra cima
+		9.5 -> 10
+	floor - arredondar resultado pra baixo
+		9.5 -> 8
+	trunc - truncar o número com virgula
+		10.5 -> 0.5
+	pow - potência
+		10^4
+	sqrt - Raiz quadrada
+	factorial - 
+
 ====
 
 ---------------------------------------------------
@@ -80,6 +92,12 @@ CONCATENAÇÃO
 	,
 	.
 	+
+
+---------------------------------------------------
+
+MÓDULOS
+adições/importações de bibliotecas
+
 
 ---------------------------------------------------
 
