@@ -101,6 +101,8 @@ CONCATENAÇÃO
 MÓDULOS
 adições/importações de bibliotecas
 
+checar bibliotecas = python.org > docs > escolher versão > Library Refence
+	python.org > PyPi > escolher biblioteca > instalar
 
 ---------------------------------------------------
 
