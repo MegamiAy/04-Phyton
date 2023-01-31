@@ -5,4 +5,7 @@ frase = 'Hoje está muito quente'
 '''print(frase[:7])'''
 '''print(frase.count('o'))'''
 '''print(frase.upper())'''
-print(frase.replace('quente', 'frio'))
+'''print(frase.replace('quente', 'frio'))'''
+print('Hoje' in frase)
+print(frase.upper().find('MUITO'))
+print(frase.lower().find('muito'))
