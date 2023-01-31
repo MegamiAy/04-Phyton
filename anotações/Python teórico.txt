@@ -43,6 +43,22 @@ dados em pyton
 		True: verdadeiro
 		False: falso
 
+
+Manipulação de strings -
+	análise
+		len()
+		count()
+		find()
+	tranformações		
+		replace()
+		upper()
+		lower()
+		captalize()
+		title()
+		strip()
+	junção	
+		join()
+
 ---------------------------------------------------
 
 OPERADORES
