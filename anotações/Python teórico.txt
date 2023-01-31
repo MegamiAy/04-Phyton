@@ -60,14 +60,14 @@ Manipulação de strings -
 		strip() - remove espaços inúteis, no ínicio e no fim da string... lstrip, rstrip = left e right respectivamente
 		
 	divisão
-		split()
+		split() - divisão dentro da string, levando em concideração os espaços
 	
 	junção	
-		join()
+		join() - junção de elementos com algum separador 
 
 EXEMPLOS:
 	frase=
-Hoje Está Muito Quente - 23 caracteres
+Hoje Está Muito Quente - 22 caracteres
 
 fatiameto de string
 	frase[10] = M
@@ -76,7 +76,7 @@ fatiameto de string
 	frase[:5] = Hoje
 		
 análise
-	len(frase) = 23
+	len(frase) = 22
 	
 	frase.count('o') = 2
 	
@@ -91,9 +91,7 @@ transformação
 	frase.upper() = HOJE ESTÁ MUITO...
 
 	frase.captalize() = Hoje está muito...
-
-Divisão
-	frase.split()
+	
 
 ---------------------------------------------------
 
