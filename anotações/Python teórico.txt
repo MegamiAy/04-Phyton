@@ -46,9 +46,9 @@ dados em pyton
 
 Manipulação de strings -
 	análise
-		len()
-		count()
-		find()
+		len() - comprimento, espaços, caracteres
+		count() - conta quantos caracteres tem do valor especificado
+		find() - procura na sequência de caracteres, quantas combinações especificadas existem e mostra onde começam
 	tranformações		
 		replace()
 		upper()
@@ -58,6 +58,24 @@ Manipulação de strings -
 		strip()
 	junção	
 		join()
+
+exs:
+	frase=
+Hoje está muito quente - 23 caracteres
+
+fatiameto de string
+	frase[10] = m
+	frase[10:14] = muit
+	frase[10:15] = muito
+	frase[:5] = Hoje
+		
+análise
+	len(frase) = 23
+	
+	frase.count('o') = 2
+	
+	frase.find('ent') = 19
+	frase.fing('Python') = -1 = inexistente
 
 ---------------------------------------------------
 
