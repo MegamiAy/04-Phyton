@@ -1,7 +1,8 @@
-name = input('Digite seu nome: ')
+name = str(input('Digite seu nome completo: ')).strip()
 nawo = name.split(' ')
+print('analizando seu nome... ')
 print(name.upper())
 print(name.lower())
-print(nawo)
-# print(len(nawo[])) - dúvida ao imprimir a quantidade total de caracteres, sem espaços
-print(len(nawo[0]))
+print('Seu nome tem {} letras'.format(len(name)-name.count(' ')))
+# print('O seu primeiro nome tem {} letras'.format(name.find(' ')))
+print('Seu primeiro nome é {} e ele tem {} letras'.format(nawo[0], len(nawo[0])))
