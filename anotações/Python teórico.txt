@@ -52,23 +52,27 @@ Manipulação de strings -
 		in - procura a sequência especificada e se houver ele retorna como verdadeiro(True), se não houver ele retorna como falso(False) 
 
 	tranformações		
-		replace() - troca certas sequências
-		upper()
-		lower()
-		captalize()
-		title()
-		strip()
+		replace() - troca/substitui certas sequências
+		upper() - coloca em maiúsculo
+		lower() - coloca em minúsculo
+		captalize() - pega string inteira, colcoca tudo em minúsculo, menos a primeira letra, está ficará maiúsculo
+		title() - coloca todas as letra iniciais de uma palavra/sequência em maiúsculo
+		strip() - remove espaços inúteis, no ínicio e no fim da string... lstrip, rstrip = left e right respectivamente
+		
+	divisão
+		split()
+	
 	junção	
 		join()
 
-exs:
+EXEMPLOS:
 	frase=
-Hoje está muito quente - 23 caracteres
+Hoje Está Muito Quente - 23 caracteres
 
 fatiameto de string
-	frase[10] = m
-	frase[10:14] = muit
-	frase[10:15] = muito
+	frase[10] = M
+	frase[10:14] = Muit
+	frase[10:15] = Muito
 	frase[:5] = Hoje
 		
 análise
@@ -82,8 +86,14 @@ análise
 	'Hoje' in frase = True
 
 transformação
-	frase.replace('Hoje', 'Ontem') = Ontem está muito...
+	frase.replace('Hoje', 'Ontem') = Ontem Está Muito...
 
+	frase.upper() = HOJE ESTÁ MUITO...
+
+	frase.captalize() = Hoje está muito...
+
+Divisão
+	frase.split()
 
 ---------------------------------------------------
 
