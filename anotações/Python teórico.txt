@@ -49,8 +49,10 @@ Manipulação de strings -
 		len() - comprimento, espaços, caracteres
 		count() - conta quantos caracteres tem do valor especificado
 		find() - procura na sequência de caracteres, quantas combinações especificadas existem e mostra onde começam
+		in - procura a sequência especificada e se houver ele retorna como verdadeiro(True), se não houver ele retorna como falso(False) 
+
 	tranformações		
-		replace()
+		replace() - troca certas sequências
 		upper()
 		lower()
 		captalize()
@@ -76,6 +78,12 @@ análise
 	
 	frase.find('ent') = 19
 	frase.fing('Python') = -1 = inexistente
+
+	'Hoje' in frase = True
+
+transformação
+	frase.replace('Hoje', 'Ontem') = Ontem está muito...
+
 
 ---------------------------------------------------
 
