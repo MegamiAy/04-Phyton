@@ -44,53 +44,7 @@ dados em pyton
 		False: falso
 
 
-Manipulação de strings -
-	análise
-		len() - comprimento, espaços, caracteres
-		count() - conta quantos caracteres tem do valor especificado
-		find() - procura na sequência de caracteres, quantas combinações especificadas existem e mostra onde começam
-		in - procura a sequência especificada e se houver ele retorna como verdadeiro(True), se não houver ele retorna como falso(False) 
 
-	tranformações		
-		replace() - troca/substitui certas sequências
-		upper() - coloca em maiúsculo
-		lower() - coloca em minúsculo
-		captalize() - pega string inteira, colcoca tudo em minúsculo, menos a primeira letra, está ficará maiúsculo
-		title() - coloca todas as letra iniciais de uma palavra/sequência em maiúsculo
-		strip() - remove espaços inúteis, no ínicio e no fim da string... lstrip, rstrip = left e right respectivamente
-		
-	divisão
-		split() - divisão dentro da string, levando em concideração os espaços
-	
-	junção	
-		join() - junção de elementos com algum separador 
-
-EXEMPLOS:
-	frase=
-Hoje Está Muito Quente - 22 caracteres
-
-fatiameto de string
-	frase[10] = M
-	frase[10:14] = Muit
-	frase[10:15] = Muito
-	frase[:5] = Hoje
-		
-análise
-	len(frase) = 22
-	
-	frase.count('o') = 2
-	
-	frase.find('ent') = 19
-	frase.fing('Python') = -1 = inexistente
-
-	'Hoje' in frase = True
-
-transformação
-	frase.replace('Hoje', 'Ontem') = Ontem Está Muito...
-
-	frase.upper() = HOJE ESTÁ MUITO...
-
-	frase.captalize() = Hoje está muito...
 	
 
 ---------------------------------------------------
