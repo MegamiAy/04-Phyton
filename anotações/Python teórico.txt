@@ -118,3 +118,29 @@ var = [elemento1, elemento2, elemento3]
 ---------------------------------------------------
 
 CONDIÇÕES
+simples e compostas
+
+Exemplo do cotidiano:
+	Atravessar a Rua
+		Olhar para a direita
+		Olhar para a esquerda
+		Se estiver vindo carro
+			Não atravesse
+		Senão
+			Atravesse
+	Fim-Algoritmo
+
+Se - Senão
+If - Else
+
+base - composta
+
+comando
+if.comando
+	bloco True
+else:
+	bloco False
+fim
+
+base - simplificada
+'dado' if var <= 3 else 'dado2'
