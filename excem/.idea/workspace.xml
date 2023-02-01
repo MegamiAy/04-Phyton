@@ -8,10 +8,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="295e60b7-c5eb-4c13-b1e8-2a145e83a98c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/023.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/022.py" beforeDir="false" afterPath="$PROJECT_DIR$/022.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/027.py" beforeDir="false" afterPath="$PROJECT_DIR$/027.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/024.py" beforeDir="false" afterPath="$PROJECT_DIR$/024.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/025.py" beforeDir="false" afterPath="$PROJECT_DIR$/025.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/026.py" beforeDir="false" afterPath="$PROJECT_DIR$/026.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +47,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.023">
+  <component name="RunManager" selected="Python.026">
     <configuration name="022" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="excem" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -176,10 +176,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.026" />
         <item itemvalue="Python.023" />
         <item itemvalue="Python.022" />
         <item itemvalue="Python.027" />
-        <item itemvalue="Python.026" />
         <item itemvalue="Python.025" />
       </list>
     </recent_temporary>
