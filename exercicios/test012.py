@@ -1,0 +1,6 @@
+print('\033[41m Teste \033[m')
+print('\033[4;33;44m Teste \033[m')
+print('\033[1;35;43m Teste \033[m')
+print('\033[42m Teste \033[m')
+print(' Teste ')
+print('\033[7;40m Teste \033[m')
