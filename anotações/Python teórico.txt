@@ -91,6 +91,36 @@ com biblioteca
 
 ====
 
+operadores relacionais
+
+	> Maior que
+	< Menor que
+	== Igual a
+	<> Diferente de
+	>= Maior ou igual
+	<= Menor ou igual
+
+====
+
+operadores lógicos:
+
+	p q - p E q
+	V V - V
+	V F - F
+	F V - F
+	F F - F
+
+	p q - p OU q
+	V V - V
+	V F - V
+	F V - V
+	F F - F
+
+	  \/
+
+	  E - AND
+	  OU - OR
+
 ---------------------------------------------------
 
 
