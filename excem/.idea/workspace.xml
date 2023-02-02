@@ -44,7 +44,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.032">
+  <component name="RunManager" selected="Python.030">
     <configuration name="028" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="excem" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -173,9 +173,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.030" />
         <item itemvalue="Python.032" />
         <item itemvalue="Python.031" />
-        <item itemvalue="Python.030" />
         <item itemvalue="Python.029" />
         <item itemvalue="Python.028" />
       </list>
