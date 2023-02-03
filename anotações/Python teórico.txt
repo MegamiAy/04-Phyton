@@ -164,9 +164,9 @@ base - composta
 
 comando
 if.comando:
-	bloco
+	bloco 1 
 else:
-	bloco
+	bloco 2
 fim
 
 base - simplificada
@@ -193,10 +193,23 @@ condições ANINHADAS
 
 Senão se - elif
 
-comando
-if.comando
-	bloco
+simples, 3 opções= 
+
+if:
+	bloco 1
 elif:
-	bloco
+	bloco 2
 else:
-	bloco
+	bloco 3
+
+mais de 3 opções=
+
+if:
+	bloco 1
+elif:
+	bloco 2
+elif:
+	bloco 3
+else:
+	bloco 4
+
