@@ -42,9 +42,6 @@ dados em pyton
 	boleans(bool) = 
 		True: verdadeiro
 		False: falso
-
-
-
 	
 
 ---------------------------------------------------
@@ -166,11 +163,40 @@ If - Else
 base - composta
 
 comando
-if.comando
-	bloco True
+if.comando:
+	bloco
 else:
-	bloco False
+	bloco
 fim
 
 base - simplificada
 'dado' if var <= 3 else 'dado2'
+
+====
+
+condições ANINHADAS
+
+	carro.siga
+	se carro,esquerda
+		carro.siga
+		carro.direita
+		carro.siga
+		...
+	senão se carro.direita
+		carro.siga
+		carro.esqueda
+		carro.siga
+		...
+	senão
+		carro.siga
+	carro.pare
+
+Senão se - elif
+
+comando
+if.comando
+	bloco
+elif:
+	bloco
+else:
+	bloco
