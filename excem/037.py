@@ -7,13 +7,13 @@ print('-'*20)
 base = int(input('Escolha a base para a conversão: '))
 if base == 1:
     bi = bin(num)
-    print('o resultado é {}'.format(bi))
+    print('o resultado é {}'.format(bi)[2:])
 elif base == 2:
     oc = oct(num)
-    print('o resultado é {}'.format(oc))
+    print('o resultado é {}'.format(oc)[2:])
 elif base == 3:
     he = hex(num)
-    print('o resultado é {}'.format(he))
+    print('o resultado é {}'.format(he)[2:])
 else:
     print('opção inválida')
 print('{}adeus...{}'.format('\033[4;31m', '\033[m'))

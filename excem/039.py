@@ -1,4 +1,7 @@
-age = int(input('Digite sua idade: '))
+from datetime import date
+atu = date.today().year
+nas = int(input('Digite sua data de nascimento: '))
+age = atu - nas
 pas = age - 18
 ant = 18 - age
 if age == 18:
