@@ -4,7 +4,7 @@ print('{}1{} para {}binário{}'.format('\033[34m', '\033[m', '\033[33m', '\033[m
 print('{}2{} para {}octal{}'.format('\033[34m', '\033[m', '\033[33m', '\033[m'))
 print('{}3{} para {}hexadecimal{}'.format('\033[34m', '\033[m', '\033[33m', '\033[m'))
 print('-'*20)
-base = str(input('Escolha a base para a conversão: '))
+base = str(input('Escolha a base para a conversão: ')).strip()
 if base == '1':
     bi = str(bin(num))
     print('o resultado é {}'.format(bi))
