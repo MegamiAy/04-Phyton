@@ -5,5 +5,5 @@ if me >= 7:
     print('Aprovado')
 elif 7 > me >= 5: # ou me >= 5 and me < 7
     print('Recuperação')
-elif me < 5:
+elif me < 5: # ou else:
     print('Reprovado')
