@@ -93,7 +93,7 @@ operadores relacionais
 	> Maior que
 	< Menor que
 	== Igual a
-	<> Diferente de
+	!= Diferente
 	>= Maior ou igual
 	<= Menor ou igual
 
