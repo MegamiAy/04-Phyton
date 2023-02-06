@@ -20,7 +20,6 @@ Onde se aplica python?
 	- biotecnologia
 	- computação 3d
 
-
 ---------------------------------------------------
 
 VARIÁVEIS
