@@ -213,3 +213,11 @@ elif:
 else:
 	bloco 4
 
+---------------------------------------------------
+
+ESTRUTURAS DE REPETIÇÃO
+
+Laços de repetição:
+
+For
+
