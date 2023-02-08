@@ -250,3 +250,18 @@ em python
 		pular
 	passo
 	pegar
+
+combinando com condições aninhadas
+
+andar 1m (4x), pular 1m (3x), pegar algo... mas se durante o caminho tiver dinheiro (por exemplo) pegar esse dinheiro
+
+vr:
+	laço c no intervalo(0,3)
+		se dinheiro
+			pegar
+		passo
+		pular
+	passo
+	pegar
+
+py
