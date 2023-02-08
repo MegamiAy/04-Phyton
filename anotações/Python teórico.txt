@@ -231,4 +231,7 @@ andar 10m e pegar algo
 mesmo exemplo so que em python:
 
 	for c in range(1, 10):
-		
+		passos
+	pegar
+
+
