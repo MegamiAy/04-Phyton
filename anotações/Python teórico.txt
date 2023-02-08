@@ -264,4 +264,12 @@ vr:
 	passo
 	pegar
 
-py
+py:
+
+	for c in range(0, 3)
+		if dinheiro
+			pegar
+		passo
+		pular
+	passo
+	pegar
