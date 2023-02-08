@@ -221,3 +221,14 @@ Laços de repetição:
 
 For
 
+exemplo vida real:
+andar 10m e pegar algo
+
+	laço c no intervalo (1, 10)
+		passos
+	pegar
+
+mesmo exemplo so que em python:
+
+	for c in range(1, 10):
+		
