@@ -234,4 +234,19 @@ mesmo exemplo so que em python:
 		passos
 	pegar
 
+outro exemplo na vida real:
+andar 1m (4x), pular 1m (3x) e pegar algo
 
+	laço c no intervalo(0, 3)
+		passo
+		pular
+	passo
+	pegar
+
+em python
+	
+	for c in range(0, 3)
+		passo
+		pular
+	passo
+	pegar
