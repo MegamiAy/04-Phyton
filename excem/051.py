@@ -1,5 +1,6 @@
-te = float(input('Digite o valor do primeiro termo: '))
-ra = float(input('Digite o valor da razão: '))
-for pa in range(1, 10+1):
-    ter = te + ra
-    print('a{} = {}'.format(pa, te+ra, te+ra))
+te = int(input('Digite o valor do primeiro termo: '))
+ra = int(input('Digite o valor da razão: '))
+de = te + (10 - 1) * ra
+for pa in range(te, de+ra, ra):
+    print('{}'.format(pa), end='-> ')
+print('ACABOU')
