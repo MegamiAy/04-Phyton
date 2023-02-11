@@ -9,8 +9,8 @@
   <component name="ChangeListManager">
     <list default="true" id="295e60b7-c5eb-4c13-b1e8-2a145e83a98c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/046.py" beforeDir="false" afterPath="$PROJECT_DIR$/046.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/047.py" beforeDir="false" afterPath="$PROJECT_DIR$/047.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/048.py" beforeDir="false" afterPath="$PROJECT_DIR$/048.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +46,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.047">
+  <component name="RunManager" selected="Python.048">
     <configuration name="046" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="excem" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -175,11 +175,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.048" />
         <item itemvalue="Python.047" />
         <item itemvalue="Python.046" />
         <item itemvalue="Python.051" />
         <item itemvalue="Python.050" />
-        <item itemvalue="Python.048" />
       </list>
     </recent_temporary>
   </component>
