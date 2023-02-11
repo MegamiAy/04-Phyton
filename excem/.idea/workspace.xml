@@ -45,8 +45,8 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.051">
-    <configuration name="047" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.046">
+    <configuration name="046" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="excem" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -58,7 +58,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/047.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/046.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -174,11 +174,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.046" />
         <item itemvalue="Python.051" />
         <item itemvalue="Python.050" />
         <item itemvalue="Python.048" />
         <item itemvalue="Python.049" />
-        <item itemvalue="Python.047" />
       </list>
     </recent_temporary>
   </component>
