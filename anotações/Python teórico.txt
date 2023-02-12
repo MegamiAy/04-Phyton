@@ -219,7 +219,7 @@ ESTRUTURAS DE REPETIÇÃO
 
 Laços de repetição:
 
-For
+============== FOR ===============
 
 exemplo vida real:
 andar 10m e pegar algo
@@ -272,4 +272,46 @@ py:
 		passo
 		pular
 	passo
+	pegar
+
+====
+
+============== WHILE ===============
+
+mesmo exemplo usado anteriormente
+exemplo vida real:
+andar até chegar no objeto e pegar ele
+
+	enquanto não objeto
+		passo
+	pegar
+
+mesmo exemplo so que em python:
+
+	while not objeto:
+		passo
+	pegar
+
+outro:
+andar até chegar no objeto e pegar ele... mas se durante o caminho tiver dinheiro (por exemplo) pegar esse dinheiro
+
+vr:
+	enquanto não objeto
+		se Verdadeiro chão
+			passo
+		se Falso chão
+			pular
+		se Verdadeiro dinheiro
+			pegar
+	pegar
+
+py:
+
+	while not objeto:
+		if True chão:
+			passo
+		if False chão:
+			pular
+		se True dinheiro:
+			pegar
 	pegar
