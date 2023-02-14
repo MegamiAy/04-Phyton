@@ -1,9 +1,9 @@
-from math import factorial
-
+'''from math import factorial
 n = float(input('Digite um valor para calcular seu fatorial'))
-f = n - 1
-# 5! = 5 . (n! - 1)
-while n == 1:
-    n += 1
-    fa = n * f
-    print('Resultado: {}'.format(fa))
+f = factorial(n)
+# 5! = 5 . (n! - 1)'''
+n = int(input('Digite um valor para calcular seu fatorial'))
+c = n
+while c > 0:
+    print('{}'.format(c))
+    c -= 1
